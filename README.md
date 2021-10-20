@@ -1,5 +1,5 @@
 # QuantumultX-
-# Quantumult X小白配置 制作by Allen Yegel TG频道：t.me/Orzmini 2021/10/20更新
+# Quantumult X小白配置 制作by Allen Yegel TG频道：https://t.me/joinchat/M0cDA4pc3qAwNzM9 2021/10/20更新
 
 [general]
 server_check_url=http://cp.cloudflare.com/generate_204
